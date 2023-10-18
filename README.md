@@ -23,5 +23,3 @@ Next, we will proceed with Data Visualization, which is instrumental in understa
 - Exploration of the relationship between overtime and various factors such as age, total working years, education level, number of companies worked for, and distance from home.
 
 By embarking on this journey of HR Analytics, we aim to empower organizations with the tools and insights necessary to optimize their human resources strategies. Let's dive into the data and uncover the secrets it holds to make better HR decisions.
-
-You mentioned "ADD GITHUB FONT MODIFICATIONS" at the end. It appears to be a placeholder for some specific formatting or styling instructions related to the project presentation, possibly to mimic the appearance of a GitHub repository. You can specify the exact GitHub font and styling modifications you want to apply to your project for a more accurate rendering.
