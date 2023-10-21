@@ -1,7 +1,7 @@
 # HR Analytics
 - **Author:** Raghav Anil Pillai
 
-**Introduction:**
+## **Introduction:**
 
 Welcome to the "HR Analytics" project, a comprehensive exploration of human resources data with a focus on data cleaning and visualization. In this GitHub-style project, we will delve into HR-related data to uncover valuable insights and patterns that can assist organizations in making informed decisions.
 
