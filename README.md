@@ -30,5 +30,7 @@ By embarking on this journey of HR Analytics, we aim to empower organizations wi
 ![Screenshot 2023-10-21 214124](https://github.com/RaghavAP369/Human-Resource-Analytics/assets/139637644/65fe62a1-9119-434e-af1a-abe0da82ba7c)
 ![Screenshot 2023-10-21 224928](https://github.com/RaghavAP369/Human-Resource-Analytics/assets/139637644/b4bc0a1d-e443-45f1-822e-25ef9222cf8f)
 ![Screenshot 2023-10-21 224308](https://github.com/RaghavAP369/Human-Resource-Analytics/assets/139637644/9e8d01b7-f200-4312-85d7-65276578a165)
+
+![Screenshot 2023-10-21 214534](https://github.com/RaghavAP369/Human-Resource-Analytics/assets/139637644/5fcd117f-7f09-4fa0-b3c0-cf18029cf87a)
 ![Screenshot 2023-10-21 231249](https://github.com/RaghavAP369/Human-Resource-Analytics/assets/139637644/e5478b96-5960-4a1a-92d6-c1e99ee940c0)
 ![Screenshot 2023-10-21 230406](https://github.com/RaghavAP369/Human-Resource-Analytics/assets/139637644/31fa1b5b-5619-457d-bbed-39f1d22c132b)
