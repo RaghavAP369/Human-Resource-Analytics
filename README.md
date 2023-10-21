@@ -24,7 +24,6 @@ Next, we will proceed with Data Visualization, which is instrumental in understa
 
 By embarking on this journey of HR Analytics, we aim to empower organizations with the tools and insights necessary to optimize their human resources strategies. Let's dive into the data and uncover the secrets it holds to make better HR decisions.
 
-![Screenshot 2023-10-21 214534](https://github.com/RaghavAP369/Human-Resource-Analytics/assets/139637644/5fcd117f-7f09-4fa0-b3c0-cf18029cf87a)
 ![Screenshot 2023-10-21 212805](https://github.com/RaghavAP369/Human-Resource-Analytics/assets/139637644/e3ba5886-8b41-4d9d-b42c-786fee9dffeb)
 ![Screenshot 2023-10-21 213626](https://github.com/RaghavAP369/Human-Resource-Analytics/assets/139637644/03728ec7-3995-48ee-a31d-9e72bc4f0d31)
 ![Screenshot 2023-10-21 213851](https://github.com/RaghavAP369/Human-Resource-Analytics/assets/139637644/21c1d4cd-e477-4c3d-a6d0-83cd9d5e74c2)
