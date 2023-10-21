@@ -5,7 +5,7 @@
 
 Welcome to the "HR Analytics" project, a comprehensive exploration of human resources data with a focus on data cleaning and visualization. In this GitHub-style project, we will delve into HR-related data to uncover valuable insights and patterns that can assist organizations in making informed decisions.
 
-**Data Cleaning:**
+## **Data Cleaning:**
 
 Data Cleaning will be our first step in this project. We will perform several essential tasks, including:
 - Deleting redundant columns.
@@ -15,7 +15,7 @@ Data Cleaning will be our first step in this project. We will perform several es
 
 These data cleansing procedures are critical for ensuring the reliability and accuracy of our analysis.
 
-**Data Visualization:**
+## **Data Visualization:**
 
 Next, we will proceed with Data Visualization, which is instrumental in understanding the underlying trends and relationships within the HR dataset. We will create various visualizations to bring the data to life and reveal meaningful patterns. Some of the visualizations we plan to generate include:
 - A correlation map for numeric variables.
